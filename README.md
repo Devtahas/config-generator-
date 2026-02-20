@@ -184,7 +184,7 @@ sub.txt              # سابسکریپشن base64
 2. در کلاینت Karing یا v2rayNG، گزینه **Import Subscription** را بزنید
 3. لینک را پیست کنید و Update کنید ✅
 
-> ![نمونه Karing](assets/karing-import.png)
+> ![نمونه Karing](https://github.com/Devtahas/config-generator-/blob/main/assets/Screenshot%20(490).png)
 
 ---
 
