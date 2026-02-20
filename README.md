@@ -122,7 +122,7 @@ python ultra_global3.py
 3. **WORKER_HOST**: آدرس ورکر (مثال: `test.sajdgsh.workers.dev`)
 4. **WS_PATH**: رشته WebSocket path (مثال: `/NEJEJDHDVBDJDJDVHDIDHjdvhdksovQS5PTkxJTkURJKEJEHV0=?ed=2560`)
 
-> ![نمونه WORKER\_HOST و path](assets/path-sample.png)
+
 
 ---
 
@@ -145,7 +145,7 @@ USER_UUID = "یک-UUID-رندوم-اینجا"
 python ultra_global3.py
 ```
 
-> ![اجرای اسکنر](assets/scanner-running.png)
+> ![اجرای اسکنر](https://github.com/Devtahas/config-generator-/blob/main/assets/Screenshot%20(487).png)
 
 3. منتظر بمانید تا اسکن کامل شود و پیام **Done** نمایش داده شود
 
@@ -163,7 +163,7 @@ Verified_IPs.txt     # IPهای سالم
 sub.txt              # سابسکریپشن base64
 ```
 
-> ![پوشه خروجی](assets/allconfigs-folder.png)
+> ![پوشه خروجی](https://github.com/Devtahas/config-generator-/blob/main/assets/Screenshot%20(488).png)
 
 ---
 
@@ -173,8 +173,9 @@ sub.txt              # سابسکریپشن base64
 2. ریپو بسازید و `sub.txt` را آپلود کنید
 3. روی گزینه **Raw** کلیک کنید تا لینک مستقیم دریافت شود
 
-> ![آپلود در گیت‌هاب](assets/github-upload.png)
+> ![آپلود در گیت‌هاب](https://github.com/Devtahas/config-generator-/blob/main/assets/Screenshot%20(489).png)
 
+> ![raw لینک](https://github.com/Devtahas/config-generator-/blob/main/assets/photo_2026-02-20_18-31-16.jpg)
 ---
 
 ### 7️⃣ استفاده در کلاینت‌ها
