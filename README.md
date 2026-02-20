@@ -81,7 +81,7 @@ USER_UUID = "your-uuid"
 ## 🚀 نحوه اجرا
 
 ```bash
-python scanner.py
+python ultra_global3.py
 ```
 
 ---
