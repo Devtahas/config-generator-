@@ -111,7 +111,7 @@ python ultra_global3.py
 2. کانفیگ‌ها را دانلود کنید
 3. یک کانفیگ انتخاب و باز کنید
 
-> ![نمونه کانفیگ](assets/config-sample.png)
+> ![نمونه کانفیگ](https://github.com/Devtahas/config-generator-/blob/main/assets/config-sample.png.jpg)
 
 ---
 
